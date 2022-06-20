@@ -6,9 +6,6 @@ slug : /
 title: API Reference
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::info
 
