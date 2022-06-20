@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Bon Docs',
   tagline: '',
-  url: 'https://ioannis-psomadelis.github.io/bon_docs/',
+  url: 'https://docs.bookonlinenow.net/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
