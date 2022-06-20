@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: '/static/img/favicon.ico',
+  favicon: '/img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -55,7 +55,7 @@ const config = {
         title: '',
         logo: {
           alt: 'bon_logo',
-          src: 'static/img/BON.png',
+          src: '/img/BON.png',
         },
         items: [
           {
