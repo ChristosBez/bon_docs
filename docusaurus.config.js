@@ -64,12 +64,6 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -115,7 +109,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
