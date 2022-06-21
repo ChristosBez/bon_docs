@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 slug : /
+title: BNΟWAPI RESTful Interface
 ---
 #  BNΟWAPI RESTful Interface 
 ---
