@@ -5,7 +5,8 @@
  */
 
 /* You can override the default Infima variables here. */
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+@import url('http://fonts.cdnfonts.com/css/sf-pro-display');
+
 :root {
   --ifm-color-primary: #c1a234;
   --ifm-color-primary-dark: #c1a234;
@@ -36,7 +37,8 @@ html[data-theme='light'] .navbar .navbar__logo {
 
 html,
 body {
-  font-family: Source Sans Pro !important
+  font-family: 'SF Pro Display', sans-serif !important;
+
 }
 
 h1,
@@ -45,5 +47,5 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Source Sans Pro !important
+  font-family: 'SF Pro Display', sans-serif !important;
 }
