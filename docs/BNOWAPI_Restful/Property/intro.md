@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+slug : /bnowapi_restful_interface/property
+title: Property Information
 ---
 
 #  Property Information

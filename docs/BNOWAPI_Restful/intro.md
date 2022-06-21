@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-slug : /
-title: Bookonlinenow Doc's Intro
+slug : /bnowapi_restful_interface
+title: BNΟWAPI RESTful Interface
 ---
-#  Bookonlinenow Doc's
+#  BNΟWAPI RESTful Interface 
 ---
 
 
