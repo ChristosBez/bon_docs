@@ -55,7 +55,7 @@ const config = {
         title: '',
         logo: {
           alt: 'bon_logo',
-          src: '/img/BON.png',
+          src: '/img/BON_dark.png',
         },
         items: [
           {
