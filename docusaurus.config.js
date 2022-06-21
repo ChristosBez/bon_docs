@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bon Docs',
+  title: 'Bookonlinenow Documentation',
   tagline: '',
   url: 'https://docs.bookonlinenow.net/',
   baseUrl: '/',
@@ -40,7 +40,13 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog:false,
+        blog: {
+          blogTitle: 'Blog',
+          blogDescription: 'Bookonlinenow Documentation Blog!',
+          postsPerPage: 'ALL',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -63,6 +69,15 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Docs',
+          },
+          {to: '/blog', 
+          label: 'Blog', 
+          position: 'left',
+        },
+          {
+            href: 'https://bookonlinenow.net/',
+            label: 'Website',
+            position: 'right',
           },
         ],
       },
