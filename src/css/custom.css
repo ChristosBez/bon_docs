@@ -31,3 +31,6 @@
 html[data-theme='light'] .navbar .navbar__logo {
   content: url(../../static/img/BON.png)
   }
+  html, body {
+    font-family: Source Sans Pro !important
+     }
