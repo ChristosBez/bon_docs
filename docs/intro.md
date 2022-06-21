@@ -2,9 +2,9 @@
 sidebar_position: 1
 slug : /
 ---
-
----
 #  BNΟWAPI RESTful Interface 
+---
+
 
 Enpoint
 All the call must be made to the the following end point using https procotol.

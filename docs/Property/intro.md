@@ -1,4 +1,8 @@
-#  Property 
+---
+sidebar_position: 2
+---
+
+#  Property Information
 
 Enpoint
 All the call must be made to the the following end point using https procotol.
@@ -51,10 +55,3 @@ Retuns the information of a property
 | description   	|  string        	    |   Description of Hotel.                    	|
 | amenities     	|  string        	    |   Amenities of Hotel.                      	|
 
-
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-/Property/:id
