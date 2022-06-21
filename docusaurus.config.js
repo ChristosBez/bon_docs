@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bookonlinenow Documentation',
-  tagline: '',
+  title: 'Documentation',
+  tagline: 'Bookonlinenow',
   url: 'https://docs.bookonlinenow.net/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
