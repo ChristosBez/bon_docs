@@ -90,22 +90,26 @@ const config = {
                 label: 'Docs',
                 to: '/',
               },
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Sitemap',
             items: [
               {
-                label: 'Stack Overflow',
-                href: '#',
+                label: 'Info',
+                href: '/',
               },
               {
-                label: 'Discord',
-                href: '#',
+                label: 'BON Restful Api',
+                href: '/bnowapi_restful_interface',
               },
               {
-                label: 'Twitter',
-                href: '#',
+                label: 'Website Integration',
+                href: '/bnowapi_restful_interface',
               },
             ],
           },
@@ -113,8 +117,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Api',
-                to: '/',
+                label: 'Website',
+                to: 'https://bookonlinenow.net/',
               },
               {
                 label: 'GitHub',
@@ -123,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}`,
+        copyright: `Bookonlinenow Documentation | Copyright © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
