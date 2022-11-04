@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 slug : /bnowconnect_interface/services/reservation_service
-title: BNOWConnect Interface Specification - Reservation Service
+title: 2. Reservation Service
 ---
 
 #  Interface Specifications -- Reservation Service
