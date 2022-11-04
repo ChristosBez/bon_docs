@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 slug : /bnowconnect_interface/services/update_service
-title: BNOWConnect Interface Specification - Update Service
+title: 1. Update Service
 ---
 
 # Interface Specifications - Update Service
