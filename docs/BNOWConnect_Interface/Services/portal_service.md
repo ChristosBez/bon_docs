@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 slug : /bnowconnect_interface/services/portal_service
-title: BNOWConnect Interface Specification - Portal Service
+title: 3. Portal Service
 ---
 
 # Interface Specifications -- Portal Service
