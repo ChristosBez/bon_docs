@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
 slug : /bnowconnect_interface/services/update_service
-title: Update Service
+title: ARI Service
 ---
 
-# Interface Specifications - Update Service
+# Interface Specifications - ARI Service
 
 ## Technical Overview
 
