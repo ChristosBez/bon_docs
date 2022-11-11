@@ -78,7 +78,7 @@ https://demov3.book-onlinenow.net/index.aspx?src=
 
 To launch the booking engine for a **specific special offer** , the following argument
 should be added:
-specialoffer=<SpecialOfferName>
+specialoffer=<SpecialOfferName/>
 where SpecialOfferName is the Special Offer Name as displayed in the Special Offer
 section of Bookonlinenow extranet
 
@@ -96,7 +96,7 @@ https://demov3.book-onlinenow.net/index.aspx?specialoffer=EarlyBooking
 
 If there is a **special offer with a Promo Code** , to launch the booking engine for the
 special offer including the promo code, the following argument should be added:
-promocode=<PromoCodeName>
+promocode=<PromoCodeName/>
 where PromoCodeName is the Promo Code Abbreviation
 
 The link should follow the format:
@@ -111,7 +111,7 @@ https://demov3.book-onlinenow.net/index.aspx?specialoffer=EarlyBooking&promocode
 ### 6. Room Types Based Links
 
 To launch the booking engine for a **specific room type** , the following argument should be added:
-selectedroom=<RoomType>
+selectedroom=<RoomType/>
 where RoomType is the Abbreviation of the selected Room Type
 
 The link should follow the format:
