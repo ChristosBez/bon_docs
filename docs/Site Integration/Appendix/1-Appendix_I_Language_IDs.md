@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug : /site_integration/appendix/appendix_I_language_IDs
+slug : /site_integration/appendix/1-appendix_I_language_IDs
 title: Appendix I - Language IDs
 ---
 # Appendix I - Language IDs
