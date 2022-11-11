@@ -124,7 +124,7 @@ For example:
 https://demov3.book-onlinenow.net/index.aspx?selectedroom=DoubleStudio
 ```
 
-## 7. Combined Arguments
+### 7. Combined Arguments
 
 Any **combination** of the above arguments is supported
 
