@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 slug : /site_integration/integration/3-portal_website_integration
-title: Hotel Website Integration with Booking Form (mask)
+title: Portal Website Integration
 ---
 # Portal Website Integration
 ---
