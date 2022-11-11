@@ -75,7 +75,7 @@ For installation of the mask (horizontal or vertical) in a Wordpress website the
 
 a. Inside the _text widget_ , do copy paste the code from the file " _Booking.html_ ".
 b. Add in the first line the following command:
-<!--raw-->
+```<!--raw-->```
 And after the last line add the following command:
-<!--/raw-->
-So the text area should start with **<!--raw-->** and end with **<!--/raw-->**
+```<!--/raw-->```
+So the text area should start with **```<!--raw-->```** and end with **```<!--/raw-->```**.
