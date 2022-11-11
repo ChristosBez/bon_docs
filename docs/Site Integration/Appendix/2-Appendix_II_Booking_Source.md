@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug : /site_integration/appendix/appendix_II_Booking_Source
+slug : /site_integration/appendix/2-appendix_II_Booking_Source
 title: Appendix II - Booking Source
 ---
 # Appendix II - Booking Source
