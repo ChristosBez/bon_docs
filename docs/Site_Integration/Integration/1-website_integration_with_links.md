@@ -78,7 +78,9 @@ https://demov3.book-onlinenow.net/index.aspx?src=
 
 To launch the booking engine for a **specific special offer** , the following argument
 should be added:
-specialoffer=<SpecialOfferName/>
+```
+specialoffer=<SpecialOfferName>
+```
 where SpecialOfferName is the Special Offer Name as displayed in the Special Offer
 section of Bookonlinenow extranet
 
