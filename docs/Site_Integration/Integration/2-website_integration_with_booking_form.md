@@ -36,7 +36,8 @@ kid1=-1, kid2=1, kid3=-1
 
 Below is an example of the booking engine URL with all needed parameters:
 ```
-https://demov3.book-onlinenow.net/index.aspx?Page=19&lan_id=&arrival=26/05/20 20 &departure=28//20 20 &rooms=1&adults=3&kids=1&kid1=-1&kid2=1&kid3=-1&extra=0&cot=
+https://demov3.book-onlinenow.net/index.aspx?Page=19&lan_id=&arrival=26/05/2020&departure=28/05/2020&
+rooms=1&adults=3&kids=1&kid1=-1&kid2=1&kid3=-1&extra=0&cot=
 ```
 
 ### 1. 2 Booking Mask with two kids categories
