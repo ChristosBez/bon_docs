@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug : /site_integration/website_integration_with_booking_form
+slug : /site_integration/integration/2-website_integration_with_booking_form
 title: Hotel Website Integration with Booking Form (mask)
 ---
 # Hotel Website Integration with Booking Form
@@ -14,17 +14,17 @@ There is a set of parameters needed to link a website through a booking form to 
 | **Name**         | **Type** | **Values** | **Required** | **Example**          | **Notes**                                  |
 | ---------------- | -------- | ---------- | ------------ | -------------------- | ------------------------------------------ |
 | **Page**         | Int      | 19         | Yes          | Page=19              | Fixed value = 19                           |
-| **lan_id**       | String   |            | Yes          | lan_id = en-US       | Selected Language <br/><br/>see Appendix I |
+| **lan_id**       | String   |            | Yes          | lan_id=en-US       | Selected Language <br/><br/>see Appendix I |
 | **src**          | Int      |            | No           |                      | Booking Source <br/><br/>see Appendix II   |
 | **promo**        | String   |            | No           |                      | Promo Code or Agent Code                   |
-| **arrival**      | Date     |            | Yes          | arrival = 29/05/2013 | Format <br/><br/>dd/MM/yyyy                |
-| **departure**    | Date     |            | Yes          |                      | Format <br/><br/>dd/MM/yyyy                |
-| **rooms**        | Int      |            | Yes          | rooms = 1            | Number of Rooms                            |
-| **adults**       | Int      |            | Yes          | adults = 3           | Number of Adults                           |
-| **kids**         | Int      |            | Yes          | kids = 1             | Number of Children                         |
-| **kid1**         | Int      |            | Yes          | kid1 = 1             | Active kid category                        |
-| **kid2**         | Int      |            | Yes          | kid1 = -1            | Active kid category                        |
-| **kid3**         | Int      |            | Yes          | kid1 = -1            | Always -1 – NOT USED                       |
+| **arrival**      | Date     |            | Yes          | arrival= 9/05/2013 | Format <br/>dd/MM/yyyy                |
+| **departure**    | Date     |            | Yes          |                      | Format <br/>dd/MM/yyyy                |
+| **rooms**        | Int      |            | Yes          | rooms=1            | Number of Rooms                            |
+| **adults**       | Int      |            | Yes          | adults=3           | Number of Adults                           |
+| **kids**         | Int      |            | Yes          | kids=1             | Number of Children                         |
+| **kid1**         | Int      |            | Yes          | kid1=1             | Active kid category                        |
+| **kid2**         | Int      |            | Yes          | kid1=-1            | Active kid category                        |
+| **kid3**         | Int      |            | Yes          | kid1=-1            | Always -1 – NOT USED                       |
 | **selectedroom** | String   |            | No           |                      | Room Type Abbreviation                     |
 
 The booking form is linked with the booking engine only with one kid category.
@@ -46,17 +46,17 @@ There is a set of parameters needed to link a website through a booking form to 
 
 | **Name**         | **Type** | **Values** | **Required** | **Example**          | **Notes**                                                       |
 | ---------------- | -------- | ---------- | ------------ | -------------------- | --------------------------------------------------------------- |
-| **Page**         | Int      | 19         | Yes          | Page = 19            | Fixed value = 19                                                |
-| **lan_id**       | String   |            | Yes          | lan_id = en-US       | Selected Language <br/><br/>see Appendix 1                      |
+| **Page**         | Int      | 19         | Yes          | Page=19            | Fixed value = 19                                                |
+| **lan_id**       | String   |            | Yes          | lan_id=en-US       | Selected Language <br/><br/>see Appendix 1                      |
 | **src**          | Int      |            | No           |                      | Booking Source                                                  |
 | **promo**        | String   |            | No           |                      | Promo Code or Agent Code                                        |
-| **arrival**      | Date     |            | Yes          | arrival = 29/05/2013 | Format <br/><br/>dd/MM/yyyy                                     |
-| **departure**    | Date     |            | Yes          |                      | Format <br/><br/>dd/MM/yyyy                                     |
-| **rooms**        | Int      |            | Yes          | rooms = 1            | Number of Rooms                                                 |
-| **adults**       | Int      |            | Yes          | adults = 3           | Number of Adults                                                |
-| **kid1**         | Int      |            | Yes          | kid1 = 1             | Number of kids of the 1st kid category                          |
-| **kid2**         | Int      |            | Yes          | kid1 = -1            | Number of kids of the 2nd kid category <br/><br/>see Appendix 3 |
-| **kid3**         | Int      |            | Yes          | kid1 = -1            | Always -1                                                       |
+| **arrival**      | Date     |            | Yes          | arrival=29/05/2013 | Format <br/>dd/MM/yyyy                                     |
+| **departure**    | Date     |            | Yes          |                      | Format <br/>dd/MM/yyyy                                     |
+| **rooms**        | Int      |            | Yes          | rooms=1            | Number of Rooms                                                 |
+| **adults**       | Int      |            | Yes          | adults=3           | Number of Adults                                                |
+| **kid1**         | Int      |            | Yes          | kid1=1             | Number of kids of the 1st kid category                          |
+| **kid2**         | Int      |            | Yes          | kid1=-1            | Number of kids of the 2nd kid category <br/><br/>see Appendix 3 |
+| **kid3**         | Int      |            | Yes          | kid1=-1            | Always -1                                                       |
 | **selectedroom** | String   |            | No           |                      | Room Type Abbreviation                                          |
 | **Extra**        | Int      | 0          | Yes          |                      | Fixed value = 0                                                 |
 | **cot**          | Int      | 0          | Yes          |                      | Fixed value = 0                                                 |

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug : /site_integration/website_integration_with_links
+slug : /site_integration/integration/1-website_integration_with_links
 title: Hotel Website Integration with Links
 ---
 # Hotel Website Integration with Links
