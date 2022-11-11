@@ -37,3 +37,4 @@ title: Appendix I - Language IDs
 |          | String   | ko-KR      | Korean          |             | lan_id=ko-KR |                                                   |
 |          | String   | ja-JP      | Japanese        |             | lan_id=ja-JP |                                                   |
 |          | String   | th-TH      | Thailand        |             | lan_id=th-TH |                                                   |
+
