@@ -16,4 +16,4 @@ The BookOnlineNow booking engine can be launched from any hotel website or a tra
 Release Date: 21 October 2011 <br/>
 Last Update: 02 December 2018 <br/>
 © Copyright Information <br/><br/>
-This document is the exclusive property of IMTEC Internet and Mobile Technologies. The recipient agrees not to copy, transmit, use or disclose the confidential and proprietary information in this document by any means without the expressed and written consent of IMTEC. By accepting a copy, the recipient agrees to adhere to these conditions to the confidentiality of IMTEC’s practices and procedures and to use these documents solely for purposes of working with IMTEC.
+This document is the exclusive property of *BookOnlineNow Private Company*. The recipient agrees not to copy, transmit, use or disclose the confidential and proprietary information in this document by any means without the expressed and written consent of BookOnlineNow. By accepting a copy, the recipient agrees to adhere to these conditions to the confidentiality of BookOnlineNow’s practices and procedures and to use these documents solely for purposes of working with BookOnlineNow.
