@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 slug : /site_integration/integration/3-portal_website_integration
-title: Hotel Website Integration with Booking Form (mask)
+title: Portal Website Integration
 ---
 # Portal Website Integration
 ---
@@ -12,7 +12,8 @@ There is a set of possible parameters to link a booking form to the list of hote
 portal booking engine. These parameters are explained below in detail.
 Below is an example of a portal booking engine URL:
 ```
-https://portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&portal=18&orderby=random&arrival=17/03/2015&departure=18/03/2015&adults=2&kids=
+https://portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&portal=18&orderby=random&
+arrival=17/03/2015&departure=18/03/2015&adults=2&kids=
 ```
 
 | **Name**       | **Type**    | **Values**    | **Required** | **Default**    | **Example**            | **Notes**                                                                                                  |
@@ -38,7 +39,8 @@ https://portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&port
 To launch the Bookonlinenow portal edition booking engine with no dates, the link
 should follow the format:
 ```
-https://portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&portal=9&adults=2&kids=0&lan_id=&orderby=random
+https://portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&
+portal=9&adults=2&kids=0&lan_id=&orderby=random
 ```
 
 The link is redirected to the portal edition, showing the results for the following
@@ -58,23 +60,27 @@ There are two parameters in the Portal Link that works as follows:
 
 Show all hotels from higher to lower price:
 ```
-https://portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&portal=XX&adults=2&kids=0&orderby=totalprice desc&onlyavail=no
+https://portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&
+portal=XX&adults=2&kids=0&orderby=totalprice desc&onlyavail=no
 ```
 
 Show all hotels from lower to higher price:
 ```
-https:// portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&portal=XX&adults=2&kids=0&orderby=totalprice asc&onlyavail=no
+https:// portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&
+portal=XX&adults=2&kids=0&orderby=totalprice asc&onlyavail=no
 ```
 
 Show all hotels with random order:
 ```
-https:// portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&portal=XX&adults=2&kids=0&orderby=random&onlyavail=no
+https:// portalname.book-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&
+portal=XX&adults=2&kids=0&orderby=random&onlyavail=no
 ```
 
 Show only available hotels with random order:
 ```
 https:// portalname.book-
-onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&portal=XX&adults=2&kids=0&orderby=random&onlyavail=yes
+onlinenow.net/index.aspx?Page=22&Area=&City=&Villa=&portal=XX&adults=2&kids=0&
+orderby=random&onlyavail=yes
 ```
 
 where XX is the portal ID
