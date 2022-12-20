@@ -3,7 +3,7 @@ sidebar_position: 1
 slug : /site_integration
 title: BookOnlineNow Site Integration
 ---
-#  Bookonlinenow Site Integration
+#  BookOnlineNow Site Integration
 ---
 
 #  About Site Integration
